@@ -4,6 +4,12 @@
     <Explorer fName="PWM">
       <SouceCode fName="SourceCode">
         <asmFile fName="MC32P7351.c" fPath="\MC32P7351.c" />
+        <asmFile fName="bsp.c" fPath="\bsp.c" />
+        <asmFile fName="key.c" fPath="\key.c" />
+        <asmFile fName="led.c" fPath="\led.c" />
+        <asmFile fName="motor.c" fPath="\motor.c" />
+        <asmFile fName="power.c" fPath="\power.c" />
+        <asmFile fName="tick.c" fPath="\tick.c" />
       </SouceCode>
       <SouceCode fName="Output">
         <asmFile fName="MC32P7351.lst" fPath="\MC32P7351.lst" />
